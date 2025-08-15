@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+
+# macOS
+.DS_Store
+
+#
+resp_data.b64
+resp_data.dec.json
+
+cred.py
+
