@@ -73,6 +73,7 @@ python getcontactAPI.py 7**********
 ## Captcha
 
 On 403004 the script writes captcha.jpg; enter the code (case-sensitive, short TTL). If invalid, it requests a new captcha and retries in the same session.
+![Image](https://github.com/user-attachments/assets/fbe45cbc-48fb-4208-b62e-8bb722d4b74d)
 
 ## Troubleshooting (short)
 - 403004 require validation: solve captcha.
